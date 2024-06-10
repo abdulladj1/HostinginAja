@@ -1,0 +1,13 @@
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(117, 117, 117);
+    padding: 10px;
+    background-color: #f4f4f5;
+}
+table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 16px;
+}
